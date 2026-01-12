@@ -1,5 +1,8 @@
 # Linear Regression from Scratch
 
+![Linear Regression Training Flow](assets/Linear_regression.png)
+
+
 Simple, from-scratch implementation of univariate linear regression using batch gradient descent, plus a minimal training script and evaluation metrics.
 
 ## Project Structure
